@@ -3,7 +3,6 @@ using namespace std;
 
 void main()
 {
-
 	cout << "\n \n   1st Term of 2020                \\451232114       Wanthanee Prachabsupakij \n\n" << endl
 		<< " -----------------------------------------------------------------------------" << endl
 		<< " |   Subject ID   |  Subject name                   |   Score (100)   | Grad |" << endl
